@@ -13,5 +13,6 @@ query Category($id: ID!){
         name
       }
     }
+    slug
   }
 }

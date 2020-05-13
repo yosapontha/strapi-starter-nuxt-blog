@@ -9,5 +9,6 @@ query Articles {
     category{
       name
     }
+    slug
   }
 }
